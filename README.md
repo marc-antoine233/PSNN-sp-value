@@ -7,7 +7,7 @@ Xie, Yuchen, et al. "Physics-Specialized Neural Network with Hard Constraints fo
 
 ## data file description
 
-The file [Case 4 sp values.cs](./Case%204%20sp%20values.csv) includes all 20 sets of specialized function coefficients used in Case 4 of this paper.
+The file [Case 4 sp values.csv](./Case%204%20sp%20values.csv) includes all 20 sets of specialized function coefficients used in Case 4 of this paper.
 
 The first line represents the names of coefficients, formatted as `alpha^k_(i,j)`, where $k$ denotes the region index, $i$ and $j$ represent the order of $x$ and $y$, respectively.
 
