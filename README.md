@@ -2,8 +2,11 @@
 
 This repository contains some data related to the paper titled "Physics-Specialized Neural Network with Hard Constraints for Solving Multi-Material Diffusion Problems"
 
-To reference this paper, please use the following temporary citation until the paper is officially published.:
+To reference this paper, please use the following temporary citation until the paper is officially published:
+
+```citation
 Xie, Yuchen, et al. "Physics-Specialized Neural Network with Hard Constraints for Solving Multi-Material Diffusion Problems." Available at SSRN 4791138.
+```
 
 ## data file description
 
